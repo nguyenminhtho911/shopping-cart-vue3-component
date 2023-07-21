@@ -1,3 +1,4 @@
+# KHÓA 2 VUEJS COMPONENT QUA DỰ ÁN SHOPPING CART
 ## Kiến thức sẽ bao gồm
 
 ### Vue CLI
